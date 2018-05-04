@@ -51,7 +51,7 @@
     "mkdirp": "0.5.1",
     "pixelmatch": "^4.0.0",
     "pngjs": "^3.0.0",
-    "raw-body": "^2.3.2",
+    "raw-body": "git+https://github.com/hammus/raw-body.git",
     "phin": "^2.9.0",
     "tinycolor2": "^1.1.2",
     "utif": "^1.1.2"
